@@ -43,9 +43,9 @@ Os mecanismos criptográficos garantem que uma vez que as transações são veri
 
 **Ether (ETH)** é a criptomoeda nativa do Ethereum. O propósito da ether é permitir a existência de um mercado para a computação. Tal mercado fornece um incentivo econômico para os participantes verificarem ou executarem solicitações de transação e fornecerem recursos computacionais para a rede.
 
-Qualquer participante que transmita um pedido de transação também deve oferecer uma quantidade de espaço para a rede como recompensa. Essa recompensa será concedida a quem eventualmente realizar o trabalho de verificação da transação, executanda-o, comprometendo-a à blockchain e transmitindo-a para a rede.
+Qualquer participante que transmita um pedido de transação também deve oferecer uma quantidade de ether para a rede como recompensa. Essa recompensa será concedida a quem eventualmente realizar o trabalho de verificação da transação, executanda-o, comprometendo-a à blockchain e transmitindo-a para a rede.
 
-A quantidade de ether pago corresponde ao tempo necessário para fazer o cálculo. Estas recompensas também evitam que participantes maliciosos congestionem a rede intencionalmente ao solicitar a execução de cálculos infinitos ou otros scripts que consomem muitos recursos, já que esses participantes deverão pagar também pelo tempo necessário para completar os cálculos.
+A quantidade de ether pago corresponde ao tempo necessário para fazer o cálculo. Estas recompensas também evitam que participantes maliciosos congestionem a rede intencionalmente ao solicitar a execução de cálculos infinitos ou outros scripts que consomem muitos recursos, já que esses participantes deverão pagar também pelo tempo necessário para completar os cálculos.
 
 ## O que são contratos inteligentes? {#what-are-smart-contracts}
 
